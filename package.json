@@ -2,7 +2,7 @@
   "name": "magic-auth",
   "version": "0.0.1",
   "private": true,
-  "main": "./users.js",
+  "main": "./auth.js",
   "dependencies": {
     "express": "^4.10.1",
     "magic-db": "git://github.com/express-magic/magic-db",
